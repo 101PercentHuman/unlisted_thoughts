@@ -1,7 +1,4 @@
 baseURL: "https://101percenthuman.github.io/ut_website/"
 languageCode: "en-us"
-title: "My New Hugo Site"
-theme: ["PaperMod"]
-
-relativeURLs: false
-canonifyURLs: true
+title: "UT Website"
+theme: "PaperMod"
