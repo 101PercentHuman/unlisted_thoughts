@@ -1,4 +1,4 @@
-name: Deploy Hugo site to Pages
+name: Build and Deploy Hugo
 
 on:
   push:
@@ -6,7 +6,7 @@ on:
       - main
 
 jobs:
-  build-deploy:
+  hugo-deploy:
     runs-on: ubuntu-latest
     permissions:
       contents: read
@@ -22,16 +22,13 @@ jobs:
           hugo-version: '0.146.0'
           extended: true
 
-      - name: Build
+      - name: Build Hugo site
         run: hugo --minify
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
+      - name: Upload Pages Artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: public
 
-      - name: Deploy
+      - name: Deploy to GitHub Pages
         uses: actions/deploy-pages@v4
