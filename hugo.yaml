@@ -1,5 +1,5 @@
 theme: "gohugo-theme-ananke"
-baseURL: "http://localhost:1313/unlisted_thoughts/"
+baseURL: "https://101PercentHuman.github.io/unlisted_thoughts/"
 title: "Unlisted Thoughts Incorporated"
 languageCode: "en-us"
 
