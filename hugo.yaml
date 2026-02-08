@@ -1,19 +1,23 @@
 theme: "gohugo-theme-ananke"
-baseURL: "https://101percenthuman.github.io/unlisted_thoughts/"
+baseURL: "http://localhost:1313/unlisted_thoughts/"
 title: "Unlisted Thoughts Incorporated"
 languageCode: "en-us"
 
 params:
-  author: "Unlisted Thoughts Inc."
-  description: "Your friend for transparency, heraldry, and flags."
   logo: "images/logo_inc.svg"
-  logoHeight: 100 
+  logo_text: "Unlisted Thoughts Inc."
+  favicon: "favicon.ico"
+  custom_css:
+    - "css/custom.css"
+    
+  ananke:
+    home:
+      content_alignment: "left"
+    page:
+      content_alignment: "left"
 
 menu:
   main:
-    - name: Home
-      url: "/"
-      weight: 1
     - name: FOI
       url: "/foi/"
       weight: 2
@@ -23,9 +27,13 @@ menu:
     - name: Flags
       url: "/flags/"
       weight: 4
+    - name: Posts
+      url: "/posts/"
+      weight: 5
     - name: About
       url: "/about/"
-      weight: 5
+      weight: 6
     - name: Contact Us
       url: "/contact/"
-      weight: 6
+      weight: 7
+

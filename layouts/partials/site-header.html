@@ -1,0 +1,55 @@
+{{/* Get the featured image for hero background */}}
+{{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
+
+{{/* Determine header background color: per-page param or default #404040 */}}
+{{ $header_bg_color := .Params.header_bg_color | default "#404040" }}
+
+{{/* Determine header text color: per-page param or default white */}}
+{{ $header_text_color := .Params.header_text_color | default "white" }}
+
+{{ if $featured_image }}
+  {{/* Hero header with featured image */}}
+  <header style="background-color: {{ $header_bg_color }}; background-image: url('{{ $featured_image }}'); background-size: cover; background-position: center;">
+    {{ $cover_dimming_class := site.Params.cover_dimming_class | compare.Default "bg-black-60" }}
+    <div class="{{ $cover_dimming_class }}">
+      {{ partials.Include "site-navigation.html" . }}
+
+      <div class="tc-l pv4 pv6-l ph3 ph4-ns flex items-center justify-start">
+        <!-- Page Title -->
+        <h1 class="f2 f-subheadline-l fw2 mb0 lh-title" style="color: {{ $header_text_color }};">
+          {{ .Title | compare.Default .Site.Title }}
+        </h1>
+      </div>
+
+      {{ with .Params.description }}
+        <div class="tc-l pv3 ph3 ph4-ns">
+          <h2 class="fw1 f5 f3-l measure-wide-l center mt3" style="color: {{ $header_text_color }};">
+            {{ . }}
+          </h2>
+        </div>
+      {{ end }}
+    </div>
+  </header>
+{{ else }}
+  {{/* Standard header without featured image */}}
+  <header style="background-color: {{ $header_bg_color }};">
+    <div class="pb3-m pb6-l">
+      {{ partials.Include "site-navigation.html" . }}
+
+      <div class="tc-l pv3 ph3 ph4-ns flex items-center justify-start">
+        <!-- Page Title -->
+        <h1 class="f2 f-subheadline-l fw2 mb0 lh-title" style="color: {{ $header_text_color }};">
+          {{ .Title | compare.Default .Site.Title }}
+        </h1>
+      </div>
+
+      {{ with .Params.description }}
+        <div class="tc-l pv3 ph3 ph4-ns">
+          <h2 class="fw1 f5 f3-l measure-wide-l center lh-copy mt3 mb4" style="color: {{ $header_text_color }};">
+            {{ . }}
+          </h2>
+        </div>
+      {{ end }}
+    </div>
+  </header>
+{{ end }}
