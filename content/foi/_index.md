@@ -2,6 +2,7 @@
 title: "FOI"
 featured_image: "images/foi_banner.jpg"
 draft: false
+date: 2026-02-08
 
 ---
 

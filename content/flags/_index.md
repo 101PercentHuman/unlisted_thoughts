@@ -2,6 +2,7 @@
 title: "Flags"
 featured_image: "images/flags_banner.jpg"
 draft: false
+date: 2026-02-08
 
 ---
 

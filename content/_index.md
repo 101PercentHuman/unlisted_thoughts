@@ -2,6 +2,7 @@
 title: "Unlisted Thoughts Incorporated"
 featured_image: "images/home_banner.svg"
 draft: false
+date: 2026-02-08
 
 ---
 

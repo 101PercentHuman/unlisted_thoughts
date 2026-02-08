@@ -2,6 +2,7 @@
 title: "About"
 featured_image: "images/about_banner.jpg"
 draft: false
+date: 2026-02-08
 
 ---
 
