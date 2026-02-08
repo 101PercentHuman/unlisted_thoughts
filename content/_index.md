@@ -1,6 +1,7 @@
 ---
 title: "Unlisted Thoughts Incorporated"
 featured_image: "images/home_banner.svg"
+draft: false
 
 ---
 

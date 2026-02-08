@@ -1,6 +1,8 @@
 ---
 title: "Contact Us"
 featured_image: "images/contact_banner.jpg"
+draft: false
+
 ---
 
 Welcome to the Contact Us page of Unlisted Thoughts Incorporated.  

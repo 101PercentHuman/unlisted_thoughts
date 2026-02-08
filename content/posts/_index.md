@@ -1,5 +1,6 @@
 ---
 title: "Posts"
+draft: false
 
 ---
 

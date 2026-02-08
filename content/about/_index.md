@@ -1,6 +1,8 @@
 ---
 title: "About"
 featured_image: "images/about_banner.jpg"
+draft: false
+
 ---
 
 # About Unlisted Thoughts Incorporated

@@ -1,6 +1,8 @@
 ---
 title: "Flags"
 featured_image: "images/flags_banner.jpg"
+draft: false
+
 ---
 
 Welcome to the Flags page of Unlisted Thoughts Incorporated.  

@@ -1,8 +1,7 @@
 ---
 title: "FOI"
 featured_image: "images/foi_banner.jpg"
-header_bg_color: "#001940"
-footer_bg_color: "#001940"
+draft: false
 
 ---
 

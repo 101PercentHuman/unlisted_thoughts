@@ -1,6 +1,8 @@
 ---
 title: "Heraldry"
 featured_image: "images/heraldry_banner.jpg"
+draft: false
+
 ---
 
 Welcome to the Heraldry page of Unlisted Thoughts Incorporated.  
