@@ -1,7 +1,7 @@
-theme: "gohugo-theme-ananke"
 baseURL: "https://101PercentHuman.github.io/unlisted_thoughts/"
 title: "Unlisted Thoughts Incorporated"
 languageCode: "en-us"
+theme: "ananke"
 
 outputs:
   home: ["HTML"]
