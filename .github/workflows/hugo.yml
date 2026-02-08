@@ -12,10 +12,9 @@ jobs:
     steps:
       # Step 1: Checkout the repo
       - name: Checkout Repository
-        - uses: actions/checkout@v4
-          with:
-            submodules: recursive
-
+        uses: actions/checkout@v4
+        with:
+          submodules: recursive
 
       # Step 2: Setup Hugo
       - name: Setup Hugo
