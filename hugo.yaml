@@ -1,4 +1,31 @@
-baseURL: "https://101percenthuman.github.io/ut_website/"
+theme: "gohugo-theme-ananke"
+baseURL: "https://101percenthuman.github.io/unlisted_thoughts/"
+title: "Unlisted Thoughts Incorporated"
 languageCode: "en-us"
-title: "UT Website"
-theme: "PaperMod"
+
+params:
+  author: "Unlisted Thoughts Inc."
+  description: "Your friend for transparency, heraldry, and flags."
+  logo: "images/logo_inc.svg"
+  logoHeight: 100 
+
+menu:
+  main:
+    - name: Home
+      url: "/"
+      weight: 1
+    - name: FOI
+      url: "/foi/"
+      weight: 2
+    - name: Heraldry
+      url: "/heraldry/"
+      weight: 3
+    - name: Flags
+      url: "/flags/"
+      weight: 4
+    - name: About
+      url: "/about/"
+      weight: 5
+    - name: Contact Us
+      url: "/contact/"
+      weight: 6
