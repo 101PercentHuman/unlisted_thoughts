@@ -3,17 +3,11 @@ baseURL: "https://101PercentHuman.github.io/unlisted_thoughts/"
 title: "Unlisted Thoughts Incorporated"
 languageCode: "en-us"
 
-module:
-  imports:
-    - path: github.com/theNewDynamic/gohugo-theme-ananke
-
-
 outputs:
   home: ["HTML"]
   section: ["HTML"]
   taxonomy: ["HTML"]
   term: ["HTML"]
-
 
 params:
   logo: "images/logo_inc.svg"
@@ -48,4 +42,3 @@ menu:
     - name: Contact Us
       url: "/contact/"
       weight: 7
-
