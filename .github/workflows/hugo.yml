@@ -22,7 +22,7 @@ jobs:
 
       # Step 3: Build the site
       - name: Build Hugo Site
-        run: hugo --gc --minify
+        run: hugo
 
       # Step 4: Deploy to GitHub Pages
       - name: Deploy to GitHub Pages
