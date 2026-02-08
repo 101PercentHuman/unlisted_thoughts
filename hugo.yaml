@@ -3,6 +3,12 @@ baseURL: "https://101PercentHuman.github.io/unlisted_thoughts/"
 title: "Unlisted Thoughts Incorporated"
 languageCode: "en-us"
 
+outputs:
+  home: ['html']
+  section: ['html']
+  taxonomy: ['html']
+  term: ['html']
+
 params:
   logo: "images/logo_inc.svg"
   logo_text: "Unlisted Thoughts Inc."
