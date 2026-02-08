@@ -1,0 +1,29 @@
+/* custom.css */
+
+.my-card {
+  text-align: left !important;
+}
+
+/* Header background color */
+header {
+    background-color: #404040 !important;
+}
+
+header h1,
+header h2 {
+    color: white !important;
+}
+
+/* Footer styling */
+footer {
+    background-color: #404040 !important;
+    color: FFFFFF !important;
+}
+
+footer a {
+    color: FFFFFF !important;
+}
+
+footer a:hover {
+    color: #FFFFFF !important; /* slightly transparent white on hover */
+}
