@@ -1,4 +1,4 @@
-name: Build and Deploy Hugo
+name: Build and Deploy Hugo site
 
 on:
   push:
@@ -6,32 +6,23 @@ on:
       - main
 
 jobs:
-  hugo-deploy:
+  build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
-      pages: write
-      id-token: write
 
     steps:
-      - uses: actions/checkout@v4
-        with:
-          submodules: recursive   # fetch your theme submodule
-          fetch-depth: 1
+      - name: Checkout
+        uses: actions/checkout@v4
 
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v5
         with:
-          hugo-version: '0.146.0'
-          extended: true
+          hugo-version: "0.111.3"
 
-      - name: Build Hugo site
-        run: hugo --config hugo.yaml  
+      - name: Build
+        run: hugo --minify
 
-      - name: Upload Pages Artifact
-        uses: actions/upload-pages-artifact@v3
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          path: public
-
-      - name: Deploy to GitHub Pages
-        uses: actions/deploy-pages@v4
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public
