@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="74.083336mm"
+   height="74.083328mm"
+   viewBox="0 0 74.083336 74.083329"
+   version="1.1"
+   id="svg31119"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="Unlisted Thoughts Cube.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview31121"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="1.4467452"
+     inkscape:cx="39.053179"
+     inkscape:cy="133.7485"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid31454"
+       originx="0"
+       originy="-2.0000001e-06" />
+  </sodipodi:namedview>
+  <defs
+     id="defs31116" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-65.698937,-71.131008)">
+    <path
+       id="path18908"
+       style="fill:#fd3800;fill-opacity:1;stroke:none;stroke-width:1.51657;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:158.74;stop-color:#000000"
+       d="m 102.7406,118.756 -37.041663,17.19792 37.041663,9.26042 37.04167,-9.26042 z"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#00ffff;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:158.74;stop-color:#000000"
+       d="M 102.7406,71.131008 V 118.756 l 37.04167,17.19792 -6.61459,-41.010412 -30.42708,-23.8125"
+       id="path28698"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffff7a;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:158.74;stop-color:#000000"
+       d="M 102.7406,71.131008 V 118.756 l -37.041663,17.19792 6.614587,-41.010412 30.427076,-23.8125"
+       id="path31939"
+       sodipodi:nodetypes="ccccc" />
+  </g>
+</svg>
