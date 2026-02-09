@@ -27,6 +27,12 @@ params:
       content_alignment: "left"
     page:
       content_alignment: "left"
+    taxonomy:
+      content_alignment: "left"
+    summary:
+      content_alignment: "left"
+    list:
+      content_alignment: "left"
 
 menu:
   main:

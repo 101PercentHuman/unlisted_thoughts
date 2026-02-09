@@ -1,7 +1,4 @@
-{{/* Determine footer background color: per-page param or default site param */}}
-{{ $footer_bg := default .Site.Params.footer_bg_color .Params.footer_bg_color }}
-
-<footer style="background-color: {{ $footer_bg | default "#000000" }}; color: #ffffff;" class="bottom-0 w-100 pa3" role="contentinfo">
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between items-center">
     <a class="f4 fw4 hover-white white-90 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.RelPermalink }}">
       &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
