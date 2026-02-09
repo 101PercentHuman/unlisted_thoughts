@@ -16,6 +16,20 @@
     border: 4px solid #404040;
 }
 
+/* Force Open Sans for everything */
+body, h1, h2, h3, h4, h5, h6, p, a, li, span, div {
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+/* Target elements with class f3 and fw2 */
+.f3.fw2 {
+    font-weight: 800; 
+}
+
+.f2.f-subheadline-l.fw2 {
+    font-weight: 600; /* medium, a bit thicker than fw2 */
+}
+
 /* ----------------------------- */
 /* ------------HOME------------- */
 /* ----------------------------- */
