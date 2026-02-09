@@ -8,7 +8,7 @@
     {{- $text_alignment = "tr-l" -}}
   {{- end -}}
 
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 {{ $text_alignment }} center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+  <article class="cf ph3 ph5-l pv3 pv4-l f4 {{ $text_alignment }} center mw8 lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
     {{ .Content }}
   </article>
 
@@ -19,7 +19,7 @@
   {{ $section_count := len $section }}
 
   {{ if and ($show_recent_posts) (compare.Ge $section_count 1) }}
-    <div class="pa3 pa4-ns w-100 w-70-ns center">
+    <div class="pa3 pa4-ns w-100 w-40-ns center">
       {{ $n_posts := $.Param "recent_posts_number" | compare.Default 3 }}
 
       <section class="w-100 mw8">

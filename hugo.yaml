@@ -54,3 +54,8 @@ menu:
     - name: Contact Us
       url: "/contact/"
       weight: 7
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

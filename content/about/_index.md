@@ -12,10 +12,24 @@ Unlisted Thoughts Incorporated is a collective of people who think too hard abou
 
 Based in the Great State of NSW.
 
-## History
+# History
 
 Unlisted Thoughts began as an informal partnership between two bored high school leavers at the beginning of 2020.
 
-## Resources
+# Resources
 
-You can find our resources [here](resource/).
+## [Constitution](/unlisted_thoughts/files/Unlisted_Thoughts_Constitution.pdf) [PDF]
+
+## [By-Laws and Orders](/unlisted_thoughts/about/bylaws_and_orders)
+
+## Resolutions
+
+## Non-Constitutional Resources
+
+### [Meeting Minutes](/unlisted_thoughts/about/meeting_minutes)
+
+### Templates
+- [Meeting Templates](/unlisted_thoughts/about/meeting_templates)
+
+### Other
+- [Unlisted Thoughts Design Guide](/unlisted_thoughts/files/Unlisted_Thoughts_Design_Guide.pdf) (0.9) [PDF]

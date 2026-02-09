@@ -1,7 +1,238 @@
 /* custom.css */
 
+/* ----------------------------- */
+/* ----------MASTERS------------ */
+/* ----------------------------- */
+
+.bg-black {
+    background-color: #404040 !important;
+}
+
 .my-card {
-  text-align: left !important;
+    text-align: left !important;
+}
+
+.pa3.pa4-ns.w-100.w-40-ns.center {
+    border: 4px solid #404040;
+}
+
+/* ----------------------------- */
+/* ------------HOME------------- */
+/* ----------------------------- */
+
+.logo-banner {
+    background-color: #000000;
+    width: 100%;
+    text-align: center;
+
+    /* Use flex to center content perfectly */
+    display: flex;
+    justify-content: center; /* horizontal center */
+    align-items: center;     /* vertical center */
+    padding: 30px 0;         /* top & bottom padding */
+}
+
+.logo-wrapper {
+    position: relative;
+    width: 25%;
+    max-width: 150px; /* prevents logo from overextending */
+    aspect-ratio: 1/1; /* keeps it square */
+}
+
+/* Stack two images on top of each other */
+.logo-wrapper img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1),
+                opacity 0.5s ease-in-out;
+    object-fit: contain; /* ensures cube fits nicely */
+}
+
+/* Base states */
+.logo-color {
+    opacity: 1;
+    z-index: 2;
+}
+
+.logo-white {
+    opacity: 0;
+    z-index: 1;
+}
+
+/* Hover: spin + swap images */
+.logo-wrapper:hover .logo-color {
+    transform: rotate(360deg);
+    opacity: 0;
+}
+
+.logo-wrapper:hover .logo-white {
+    transform: rotate(360deg);
+    opacity: 1;
+}
+
+/* ----------------------------- */
+/* Home Page - Pills */
+
+.domain-pills {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    /* space between pills */
+    justify-content: center;
+    /* center the row */
+    margin: 2rem 0;
+    align-items: stretch;
+    /* make all pills same height */
+}
+
+.domain-pills .pill {
+    border-radius: 25px;
+    /* rounded edges */
+    padding: 1rem 1.5rem;
+    max-width: 250px;
+    /* optional fixed width */
+    text-align: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+
+    display: flex;
+    /* make inner content flex column */
+    flex-direction: column;
+    /* stack heading + paragraph vertically */
+
+    text-decoration: none;
+    /* remove underline for links */
+    transition: transform 0.2s, box-shadow 0.2s;
+    /* hover effect */
+}
+
+/* Hover lift effect only, no text glow or color change */
+.domain-pills .pill:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.domain-pills .pill h3,
+.domain-pills .pill p {
+    margin: 0;
+    line-height: 1.4;
+}
+
+/* Specific styling for headings */
+.domain-pills .pill h3 {
+    margin-top: 0;
+    margin-bottom: 0.5rem;
+    font-size: 1.2rem;
+}
+
+.domain-pills .pill p {
+    font-size: 1rem;
+}
+
+/* Pill colors and text */
+.pill-foi {
+    background-color: #00FFFF;
+    color: #000000;
+}
+
+.pill-heraldry {
+    background-color: #FFFF73;
+    color: #000000;
+}
+
+.pill-flags {
+    background-color: #FF3600;
+    color: #FFFFFF;
+}
+
+.pill-foi:hover{
+    color: #000000 !important;
+    text-shadow: none !important;
+}
+
+.pill-heraldry:hover{
+    color: #000000 !important;
+    text-shadow: none !important;
+}
+
+.pill-flags:hover{
+    color: #FFFFFF !important;
+    text-shadow: none !important;
+}
+
+/* Pill colors and text for normal state */
+.pill-foi{
+    color: #000000 !important;
+    /* black */
+    text-decoration: none !important;
+    /* remove underline */
+    text-shadow: none !important;
+    /* no glow */
+}
+
+.pill-heraldry{
+    color: #000000 !important;
+    /* black */
+    text-decoration: none !important;
+    text-shadow: none !important;
+}
+
+.pill-flags{
+    color: #FFFFFF !important;
+    /* white */
+    text-decoration: none !important;
+    text-shadow: none !important;
+}
+
+.pill-foi:hover{
+    color: #000000 !important;
+    text-shadow: none !important;
+}
+
+.pill-heraldry:hover
+{
+    color: #000000 !important;
+    text-shadow: none !important;
+}
+
+.pill-flags:hover{
+    color: #FFFFFF !important;
+    text-shadow: none !important;
+}
+
+/* ----------------------------- */
+/* ----------------------------- */
+/* ----------------------------- */
+
+/* Tables */
+table {
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #330040;
+    padding: 8px;
+    text-align: center;
+}
+
+th {
+    background-color: #330040;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+
+/* Posts */
+main .mt4.w-100 {
+    background-color: #001940 !important;
+    color: #FFFFFF !important;
+    border: 8px solid #001940 !important;
 }
 
 /* Header background color */
@@ -11,7 +242,7 @@ header {
 
 header h1,
 header h2 {
-    color: white !important;
+    color: #FFFFFF !important;
 }
 
 /* Footer styling */
@@ -25,5 +256,5 @@ footer a {
 }
 
 footer a:hover {
-    color: #FFFFFF !important; /* slightly transparent white on hover */
+    color: #FFFFFF !important;
 }

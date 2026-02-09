@@ -9,14 +9,34 @@ footer_bg_color: "#001940"
 
 ---
 
-This is the home page. 
+Welcome to our website.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare ante odio, non sagittis massa faucibus sed. Cras consectetur nulla rhoncus tortor aliquet, sit amet ultrices ligula consectetur. Praesent augue augue, laoreet in lorem eget, imperdiet porttitor nulla. In hendrerit, urna eu interdum aliquet, dui velit egestas felis, tristique porttitor odio dolor at urna. Vivamus condimentum leo sed nunc tempus tristique. Morbi imperdiet vestibulum tortor, at rutrum dolor ullamcorper ac. Fusce posuere maximus est, et aliquet lacus tempus at. Cras pretium purus enim, vitae efficitur arcu finibus ac. Suspendisse blandit erat tellus. Suspendisse mauris velit, mollis ut nisi in, mollis malesuada ante. Mauris consequat lectus diam.
+See what we're doing in our three domains:
+<div class="domain-pills">
+  <a href="foi/" class="pill pill-foi">
+    <h3>Freedom of Information</h3>
+    <p>We care deeply about our right to obtain government information. Society benefits when all sorts of curiosities are released to the public.</p>
+  </a>
 
-Vivamus condimentum nibh vel cursus efficitur. Duis commodo nec arcu sit amet eleifend. Nulla facilisi. Integer auctor dui a rhoncus facilisis. Integer pharetra dignissim pulvinar. Duis sed eleifend felis, vitae venenatis nisl. Vivamus vitae ullamcorper dui. Phasellus posuere convallis urna eget ultricies. Fusce sit amet metus porta, fringilla augue a, dapibus sem.
+  <a href="heraldry/" class="pill pill-heraldry">
+    <h3>Heraldry</h3>
+    <p>Heraldry is an ancient discipline. We believe there should be an Australian Heraldic Authority. Until then, we'll act in its place.</p>
+  </a>
 
-Donec porta nulla non lacus viverra volutpat. Nam cursus ante non lectus imperdiet, vitae elementum lacus blandit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Suspendisse eu malesuada purus, ut ullamcorper ipsum. Cras ac sem elementum, efficitur elit in, gravida purus. Integer ullamcorper facilisis lacus, sit amet feugiat metus convallis sit amet. Vivamus nulla libero, vestibulum id tellus vitae, dapibus viverra ante. Cras scelerisque lacus eget risus sagittis, non vehicula nulla pretium.
+  <a href="flags/" class="pill pill-flags">
+    <h3>Flags</h3>
+    <p>Flags, flags, flags. What more to say? Flags! You can have a tricolour or an ornate design. Rectangle? No need if you're crazy!</p>
+  </a>
+</div>
 
-Vestibulum feugiat lectus dolor, a dictum turpis molestie ut. Donec porttitor nulla tristique justo luctus, nec tempor quam porta. Nulla porttitor ultricies sapien vestibulum placerat. Integer sed dolor a tellus posuere rhoncus. Sed non condimentum nisi. In fringilla ante sit amet est congue dapibus. Morbi sed felis vehicula ex condimentum luctus. Quisque ullamcorper ante quam, eu varius felis pellentesque quis. Quisque lorem eros, viverra sed odio eget, mattis facilisis leo. Nulla blandit mi vitae magna facilisis, eget aliquam est placerat.
 
-Duis vitae congue diam, vitae volutpat ante. Praesent vel fringilla quam. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ac eros rhoncus ex consectetur pharetra eget sed risus. Maecenas porttitor sed quam in posuere. Ut sed viverra orci. Nunc in venenatis urna. Nulla sit amet est vel odio aliquet dictum. Pellentesque tincidunt ultricies orci vel auctor. Integer eget semper mi, ac dignissim ligula. Nulla vestibulum, velit ac vehicula porttitor, nulla urna dictum magna, sed tristique elit est ac dolor. Cras feugiat dolor sit amet elit pulvinar, a finibus arcu pellentesque. 
+<div class="logo-banner">
+  <div class="logo-wrapper">
+    <img src="images/ut_logo/ut_logo_cube_only.svg" alt="Logo" class="logo-color">
+    <img src="images/ut_logo/ut_logo_cube_only_white.svg" alt="Logo White" class="logo-white">
+  </div>
+</div>
+
+
+
+# Recent Posts
