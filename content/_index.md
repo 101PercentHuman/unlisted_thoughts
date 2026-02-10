@@ -3,9 +3,6 @@ title: "Unlisted Thoughts Incorporated"
 featured_image: "images/home_banner.svg"
 draft: false
 date: 2026-02-08
-header_bg_color: "#001940"
-header_text_color: "#FFFFFF"
-footer_bg_color: "#001940"
 
 ---
 

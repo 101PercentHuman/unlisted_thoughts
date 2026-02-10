@@ -51,9 +51,12 @@ menu:
     - name: About
       url: "/about/"
       weight: 6
+    - name: Resources
+      url: "/resources/"
+      weight: 7  
     - name: Contact Us
       url: "/contact/"
-      weight: 7
+      weight: 8
 
 markup:
   goldmark:
