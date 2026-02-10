@@ -1,6 +1,7 @@
 ---
 title: "Copyright"
 featured_image: "images/copyright_banner.jpg"
+body_classes: "page-copyright"
 draft: false
 date: 2026-02-08
 

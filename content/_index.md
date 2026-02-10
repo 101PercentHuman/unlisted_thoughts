@@ -8,7 +8,7 @@ date: 2026-02-08
 
 Welcome to our website.
 
-See what we're doing in our three domains:
+See what we're doing across our three domains:
 <div class="domain-pills">
   <a href="foi/" class="pill pill-foi">
     <h3>Freedom of Information</h3>
@@ -26,14 +26,9 @@ See what we're doing in our three domains:
   </a>
 </div>
 
-
 <div class="logo-banner">
   <div class="logo-wrapper">
     <img src="images/ut_logo/ut_logo_cube_only.svg" alt="Logo" class="logo-color">
     <img src="images/ut_logo/ut_logo_cube_only_white.svg" alt="Logo White" class="logo-white">
   </div>
 </div>
-
-
-
-# Recent Posts

@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     if (!counter) return;
 
     // Generate a random number between 5,000 and 25,000
-    const target = Math.floor(Math.random() * (25000 - 5000 + 1)) + 5000;
+    const target = Math.floor(Math.random() * (25000000 - 5000000 + 1)) + 5000;
     
     let current = 0;
     const duration = 2000; // animation duration in ms

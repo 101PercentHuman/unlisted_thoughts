@@ -21,6 +21,8 @@ params:
   favicon: "favicon.ico"
   custom_css:
     - "css/custom.css"
+    - "css/scroll-banner.css"
+    - "css/custom-cursor.css"
     
   ananke:
     home:
