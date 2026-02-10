@@ -1,0 +1,13 @@
+body.page-copyright {
+  cursor: 
+	url("/unlisted_thoughts/images/cursors/cursor.cur"),
+	url("/unlisted_thoughts/images/cursors/cursor.png") 16 16,
+	auto;
+}
+
+body.page-copyright a:hover {
+  cursor:
+    url("/unlisted_thoughts/images/cursors/cursor_white.cur"),
+    url("/unlisted_thoughts/images/cursors/cursor_white.png") 16 16,
+    pointer;
+}
