@@ -1,5 +1,5 @@
 ---
-title: "By-Laws and Orders"
+title: "Resolutions"
 draft: false
 date: 2026-02-08
 
