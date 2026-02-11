@@ -15,7 +15,7 @@ The current governor-general, His Excellency General the Honourable David Hurley
 And as with most high offices, there is an entourage of leeches, paparazzi, and bored weirdos who provide speculation on who will be the next Governor-General of Australia.
 
 <figure style="text-align:center;">
-	<img src="/unlisted_thoughts/images/media_release/Cosgrove.webp" alt="Former Governor-General General the Honourable Sir Peter Cosgrove AK CVO MC>
+	<img src="/images/media_release/Cosgrove.webp" alt="Former Governor-General General the Honourable Sir Peter Cosgrove AK CVO MC>
 	<figcaption class="custom-caption">Image of former Governor-General of Australia, General the Honourable Sir Peter Cosgrove AK CVO MC (Retd). Department of Foreign Affairs and Trade, CC BY 2.0 <a href="https://commons.wikimedia.org/wiki/File:Governor-General_of_Australia_visit_to_the_Department_of_Foreign_Affairs_and_Trade,_7th_May,_2014_(14001853719).jpg">https://commons.wikimedia.org/wiki/File:Governor-General_of_Australia_visit_to_the_Department_of_Foreign_Affairs_and_Trade,_7th_May,_2014_(14001853719).jpg</a></figcaption>
 </figure>
 

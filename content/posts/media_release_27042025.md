@@ -6,7 +6,7 @@ tags: ["Media Release", "Pope","President","Satire"]
 
 ---
 
-[DOWNLOAD HERE](/unlisted_thoughts/files/media_release/UTMR_COPTIC_POPE_28042025.pdf)
+[DOWNLOAD HERE](/files/media_release/UTMR_COPTIC_POPE_28042025.pdf)
 
 Unlisted Thoughts is proud to announce that the Pope of the Coptic Orthodox Church, Tawadros II, is still alive despite reports otherwise.
 

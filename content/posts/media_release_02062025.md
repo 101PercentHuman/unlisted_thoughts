@@ -6,7 +6,7 @@ tags: ["Media Release", "government","Senate","Satire"]
 
 ---
 
-[DOWNLOAD HERE](/unlisted_thoughts/files/media_release/UTMR_DORINDA_COX_02062025.pdf)
+[DOWNLOAD HERE](/files/media_release/UTMR_DORINDA_COX_02062025.pdf)
 
 Earlier today, Senator Dorinda Cox of the Great State of Western Australia made a move not on anyone’s bingo card by defecting from the Australians Greens to the Australian Labor Party.
 
@@ -17,12 +17,12 @@ However, Unlisted Thoughts would like to point out an error in Senator Cox’s t
 Unlisted Thoughts calls on Senator Cox of Western Australia to leave the Australian Labor Party, start her own party (she can contact us for further suggestions, but she can go with Voice Australia), and then defect and join the Australian Labor Party again. Such a manoeuvre would be considered a full Reverse Payman in addition to being a full Cox.
 
 <figure style="text-align:center;">
-	<img src="/unlisted_thoughts/images/media_release/Payman.png" alt="The Payman Step 1. Leave the Australian Labor Party Step 2. Form a new party and join it Step 3. Profit" width="800">
+	<img src="/images/media_release/Payman.png" alt="The Payman Step 1. Leave the Australian Labor Party Step 2. Form a new party and join it Step 3. Profit" width="800">
 	<figcaption class="custom-caption">A visual flowchart of the Payman manoeuvre</figcaption>
 </figure>
 
 <figure style="text-align:center;">
-	<img src="/unlisted_thoughts/images/media_release/Reverse_Payman.png" alt="The Reverse Step 1. Profit Step 2. Leave a party and end it Step 3. Join the Australian Labor Party">
+	<img src="/images/media_release/Reverse_Payman.png" alt="The Reverse Step 1. Profit Step 2. Leave a party and end it Step 3. Join the Australian Labor Party">
 	<figcaption class="custom-caption">A visual flowchart of the theoretical Reverse Payman manoeuvre</figcaption>
 </figure>
 

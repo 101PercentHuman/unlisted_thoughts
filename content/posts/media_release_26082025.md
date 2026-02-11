@@ -6,7 +6,7 @@ tags: ["Media Release", "government","marshall","lost its way","President","Sati
 
 ---
 
-[DOWNLOAD HERE](/unlisted_thoughts/files/media_release/UTMR_MARSHALL_ISLANDS_26082025.pdf)
+[DOWNLOAD HERE](/files/media_release/UTMR_MARSHALL_ISLANDS_26082025.pdf)
 
 In a hastily drafted media release, Unlisted Thoughts strongly urges the President of the Republic of the Marshall Islands, Her Excellency Hilda Heine, to not suspend the Constitution of the Republic of the Marshall Islands (the Constitution), not take drastic actions to restore public security, and not rule by decree as a defensive measure against communist acts of violence endangering the state.
 

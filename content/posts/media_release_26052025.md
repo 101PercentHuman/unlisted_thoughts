@@ -6,7 +6,7 @@ tags: ["Media Release", "ABC","Lost its way","Media watch","Satire"]
 
 ---
 
-[DOWNLOAD HERE](/unlisted_thoughts/files/media_release/UTMR_ABC_24042025.pdf)
+[DOWNLOAD HERE](/files/media_release/UTMR_ABC_24042025.pdf)
 
 The <b><ins>Australian</b></ins> Broadcasting Corporation is one of the best things Australia has ever created. There is no dispute about this. However, Auntie has a horrendous tumour on the side of its brain: its style for dates.
 
