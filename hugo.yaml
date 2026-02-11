@@ -1,4 +1,4 @@
-baseURL: "https://unlistedthoughts.neocities.org/"
+baseURL: "https://unlistedthoughts.com"
 title: "Unlisted Thoughts Incorporated"
 languageCode: "en-us"
 
@@ -16,7 +16,7 @@ outputs:
   term: ["HTML"]
 
 params:
-  logo: "images/logo_inc.svg"
+  logo: "/images/logo_inc.svg"
   logo_text: "Unlisted Thoughts Inc."
   favicon: "favicon.ico"
   custom_css:
@@ -56,7 +56,7 @@ menu:
     - name: Resources
       url: "/resources/"
       weight: 7  
-    - name: Contact Us
+    - name: Contact
       url: "/contact/"
       weight: 8
 

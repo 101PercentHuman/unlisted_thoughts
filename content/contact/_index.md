@@ -6,7 +6,35 @@ date: 2026-02-08
 
 ---
 
-Welcome to the Contact Us page of Unlisted Thoughts Incorporated.  
-You can add content, images, tables, etc., here.
+# Contact Details
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ornare ante odio, non sagittis massa faucibus sed. Cras consectetur nulla rhoncus tortor aliquet, sit amet ultrices ligula consectetur. Praesent augue augue, laoreet in lorem eget, imperdiet porttitor nulla. In hendrerit, urna eu interdum aliquet, dui velit egestas felis, tristique porttitor odio dolor at urna. Vivamus condimentum leo sed nunc tempus tristique. Morbi imperdiet vestibulum tortor, at rutrum dolor ullamcorper ac. Fusce posuere maximus est, et aliquet lacus tempus at. Cras pretium purus enim, vitae efficitur arcu finibus ac. Suspendisse blandit erat tellus. Suspendisse mauris velit, mollis ut nisi in, mollis malesuada ante. Mauris consequat lectus diam.
+## Unlisted Thoughts Incorporated
+
+We are based in Sydney, NSW, Australia.
+
+**Phone:** Sorry, we don't do that nonsense.
+**Email:** [unlistedthoughts@gmail.com](mailto:unlistedthoughts@gmail.com)
+
+<div class="logo-banner">
+  <div class="logo-wrapper">
+    <img src="/images/ut_logo/ut_logo_cube_only.svg" alt="Logo" class="logo-color">
+    <img src="/images/ut_logo/ut_logo_cube_only_white.svg" alt="Logo White" class="logo-white">
+  </div>
+</div>
+
+Keep up to date with the social media channels we don't use.
+
+**Bluesky:** [@unlistedthoughts.bsky.social](https://bsky.app/profile/unlistedthoughts.bsky.social)
+**Twitter:** [@Unlisted_Thinks](https://x.com/Unlisted_Thinks)
+**YouTube (Official)**: [@UnlistedThoughtsInc](https://www.youtube.com/@UnlistedThoughtsInc)
+**YouTube (Unincorporated/Unofficial)**: [@UnlistedThoughts](https://www.youtube.com/@UnlistedThoughts)
+
+# Would you like to join Unlisted Thoughts?
+
+If you think that Unlisted Thoughts will bring the right amount of chaos into your life, then you can sign up using our [**Membership Form**](https://docs.google.com/forms/d/e/1FAIpQLSdUP4wsgPslmXlHcFzgUKlKJYCBiX7RbvqM0XyC_D2OibsKTQ/viewform?usp=header).
+
+Alternatively, you can download the PDF version of the membership form and send it to our email address. 
+
+**BEWARE: We have an entrance fee of 1.50 AUD. If you cannot afford to pay this, the Treasurer-General will work out a payment plan with you.**
+
+Best of luck!

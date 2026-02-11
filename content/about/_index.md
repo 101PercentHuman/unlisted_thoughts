@@ -15,3 +15,11 @@ Based in the Great State of NSW.
 # History
 
 Unlisted Thoughts began as an informal partnership between two bored high school leavers at the beginning of 2020.
+
+<div class="logo-banner">
+  <div class="logo-wrapper">
+    <img src="/images/ut_logo/ut_logo_cube_only.svg" alt="Logo" class="logo-color">
+    <img src="/images/ut_logo/ut_logo_cube_only_white.svg" alt="Logo White" class="logo-white">
+  </div>
+</div>
+
