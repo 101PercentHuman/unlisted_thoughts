@@ -9,23 +9,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1) Check out the repo
       - uses: actions/checkout@v4
 
+      # 2) Set up Hugo (install Hugo)
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "0.155.1"
           extended: true
 
+      # 3) Build the Hugo site
       - name: Build site
         run: hugo --minify
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      # 4) Deploy the built site to Neocities
+      - name: Deploy to Neocities
+        uses: bcomnes/deploy-to-neocities@v3
         with:
-          node-version: 20
-
-      - name: Deploy via Neocities CLI
-        run: npx neocities push public
-        env:
-          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_TOKEN }}
+          api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
+          cleanup: false
+          dist_dir: public
