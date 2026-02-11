@@ -19,7 +19,7 @@ date: 2026-02-08
 
 
 # Drafts
-- [Seal of the Association](/files/resolutions/drafts/SR_Seal.docx) [DOCX]
+- [Seal of the Association](/unsupported_files/resolutions/drafts/SR_Seal.docx) [DOCX]
 
 # Template
-You can download the resolution template [here](/files/resolution_templates/Unlisted_Thoughts_Resolution_Template.dotx)
+You can download the resolution template [here](/unsupported_files/resolution_templates/Unlisted_Thoughts_Resolution_Template.dotx)

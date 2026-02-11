@@ -34,8 +34,8 @@ Keep up to date with the social media channels we don't use.
 If you think that Unlisted Thoughts will bring the right amount of chaos into your life, then you can sign up using our [**online Membership Form**](https://docs.google.com/forms/d/e/1FAIpQLSdUP4wsgPslmXlHcFzgUKlKJYCBiX7RbvqM0XyC_D2OibsKTQ/viewform?usp=header).
 
 Alternatively, you can download our membership form and send it to our email address:
-- [Membership Form](/files/membership/UT_Membership_Application_Form.docx) [DOCX]
-- [Membership Form](/files/membership/UT_Membership_Application_Form.pdf) [PDF]
+- [Membership Form](/unsupported_files/membership/UT_Membership_Application_Form.docx) [DOCX]
+- [Membership Form](/unsupported_files/membership/UT_Membership_Application_Form.pdf) [PDF]
 
 Best of luck!
 
