@@ -1,6 +1,7 @@
 /public/
 /resources/_gen/
 /static/large_files/
+/unsupported_files/
 
 hugo.exe
 hugo.linux
