@@ -14,9 +14,10 @@ jobs:
 
       # 2) Set up Hugo (install Hugo)
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3
+        uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: 'latest'
+          hugo-version: "0.155.1"
+          extended: true
 
       # 3) Build the Hugo site
       - name: Build site
