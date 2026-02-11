@@ -25,11 +25,7 @@ jobs:
         with:
           node-version: 20
 
-      - name: Install Neocities CLI
-        run: npm install -g neocities
-
       - name: Deploy via Neocities CLI
-        run: neocities push public
+        run: npx neocities push public
         env:
           NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_TOKEN }}
-
