@@ -9,31 +9,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      # 1) Check out the repo
       - uses: actions/checkout@v4
 
-      # 2) Set up Hugo (install Hugo)
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
           hugo-version: "0.155.1"
           extended: true
 
-      # 3) Build the Hugo site
       - name: Build site
         run: hugo --minify
 
-      # 4) Set up Node (required for Neocities CLI)
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
           node-version: 20
 
-      # 5) Install Neocities CLI
       - name: Install Neocities CLI
         run: npm install -g neocities
 
-      # 6) Deploy to Neocities
       - name: Deploy via Neocities CLI
         run: neocities push public
         env:
