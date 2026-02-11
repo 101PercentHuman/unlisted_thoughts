@@ -23,10 +23,19 @@ jobs:
       - name: Build site
         run: hugo --minify
 
-      # 4) Deploy the built site to Neocities
-      - name: Deploy to Neocities
-        uses: bcomnes/deploy-to-neocities@v3
+      # 4) Set up Node (required for Neocities CLI)
+      - name: Setup Node
+        uses: actions/setup-node@v4
         with:
-          api_key: ${{ secrets.NEOCITIES_API_TOKEN }}
-          cleanup: false
-          dist_dir: public
+          node-version: 20
+
+      # 5) Install Neocities CLI
+      - name: Install Neocities CLI
+        run: npm install -g neocities
+
+      # 6) Deploy to Neocities
+      - name: Deploy via Neocities CLI
+        run: neocities push public
+        env:
+          NEOCITIES_API_KEY: ${{ secrets.NEOCITIES_API_TOKEN }}
+
