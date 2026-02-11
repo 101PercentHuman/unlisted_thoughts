@@ -12,7 +12,7 @@ date: 2026-02-08
 
 We are based in Sydney, NSW, Australia.
 
-**Phone:** Sorry, we don't do that nonsense.
+**Phone:** Sorry, we don't do that nonsense.\
 **Email:** [unlistedthoughts@gmail.com](mailto:unlistedthoughts@gmail.com)
 
 <div class="logo-banner">
@@ -24,17 +24,21 @@ We are based in Sydney, NSW, Australia.
 
 Keep up to date with the social media channels we don't use.
 
-**Bluesky:** [@unlistedthoughts.bsky.social](https://bsky.app/profile/unlistedthoughts.bsky.social)
-**Twitter:** [@Unlisted_Thinks](https://x.com/Unlisted_Thinks)
-**YouTube (Official)**: [@UnlistedThoughtsInc](https://www.youtube.com/@UnlistedThoughtsInc)
+**Bluesky:** [@unlistedthoughts.bsky.social](https://bsky.app/profile/unlistedthoughts.bsky.social)\
+**Twitter:** [@Unlisted_Thinks](https://x.com/Unlisted_Thinks)\
+**YouTube (Official)**: [@UnlistedThoughtsInc](https://www.youtube.com/@UnlistedThoughtsInc)\
 **YouTube (Unincorporated/Unofficial)**: [@UnlistedThoughts](https://www.youtube.com/@UnlistedThoughts)
 
 # Would you like to join Unlisted Thoughts?
 
-If you think that Unlisted Thoughts will bring the right amount of chaos into your life, then you can sign up using our [**Membership Form**](https://docs.google.com/forms/d/e/1FAIpQLSdUP4wsgPslmXlHcFzgUKlKJYCBiX7RbvqM0XyC_D2OibsKTQ/viewform?usp=header).
+If you think that Unlisted Thoughts will bring the right amount of chaos into your life, then you can sign up using our [**online Membership Form**](https://docs.google.com/forms/d/e/1FAIpQLSdUP4wsgPslmXlHcFzgUKlKJYCBiX7RbvqM0XyC_D2OibsKTQ/viewform?usp=header).
 
-Alternatively, you can download the PDF version of the membership form and send it to our email address. 
-
-**BEWARE: We have an entrance fee of 1.50 AUD. If you cannot afford to pay this, the Treasurer-General will work out a payment plan with you.**
+Alternatively, you can download our membership form and send it to our email address:
+- [Membership Form](/files/membership/UT_Membership_Application_Form.docx) [DOCX]
+- [Membership Form](/files/membership/UT_Membership_Application_Form.pdf) [PDF]
 
 Best of luck!
+
+**BEWARE: We have an entrance fee of 1.50 AUD. The Treasurer-General will organise payment after your membership application is accepted.**
+
+**If you cannot afford to pay this, the Treasurer-General will work out a payment plan with you.**
