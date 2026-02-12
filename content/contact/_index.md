@@ -16,15 +16,17 @@ We are based in Sydney, NSW, Australia.
 **Email:** <span id="email"></span>
 
 <script>
-  const user = "unlistedthoughts";
-  const domain = "gmail.com";
-  const email = user + "@" + domain;
+  setTimeout(() => {
+	  const user = "unlistedthoughts";
+	  const domain = "gmail.com";
+	  const email = user + "@" + domain;
 
-  const link = document.createElement("a");
-  link.href = "mailto:" + email;
-  link.textContent = email;
+	  const link = document.createElement("a");
+	  link.href = "mailto:" + email;
+	  link.textContent = email;
 
-  document.getElementById("email").appendChild(link);
+	  document.getElementById("email").appendChild(link);
+	}, 500);
 </script>
 
 
