@@ -5,7 +5,7 @@ date: 2026-02-08
 
 ---
 
-Find our Unlisted Board minutes on this page!
+Find our meeting-general minutes on this page!
 
 # 2026
 We haven't done no meetings-general.

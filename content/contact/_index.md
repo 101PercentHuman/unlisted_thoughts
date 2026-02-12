@@ -13,7 +13,20 @@ date: 2026-02-08
 We are based in Sydney, NSW, Australia.
 
 **Phone:** Sorry, we don't do that nonsense.\
-**Email:** [unlistedthoughts@gmail.com](mailto:unlistedthoughts@gmail.com)
+**Email:** <span id="email"></span>
+
+<script>
+  const user = "unlistedthoughts";
+  const domain = "gmail.com";
+  const email = user + "@" + domain;
+
+  const link = document.createElement("a");
+  link.href = "mailto:" + email;
+  link.textContent = email;
+
+  document.getElementById("email").appendChild(link);
+</script>
+
 
 <div class="logo-banner">
   <div class="logo-wrapper">
