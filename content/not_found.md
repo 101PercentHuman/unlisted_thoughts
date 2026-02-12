@@ -11,13 +11,6 @@ tags: []
 hidden: true
 
 ---
-{{ define "header" }}
-{{ partial "page-header.html" . }}
-{{ end }}
 
-{{ define "main" }}
-<meta http-equiv="refresh" content="0; url=/404.html">
-<div>
-  <p>If you are not redirected, click <a href="/404.html">here</a>.</p>
-</div>
-{{ end }}
+
+
