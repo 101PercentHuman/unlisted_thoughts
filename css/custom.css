@@ -30,6 +30,11 @@ body, h1, h2, h3, h4, h5, h6, p, a, li, span, div {
     font-weight: 600; /* medium, a bit thicker than fw2 */
 }
 
+body.page-not-found .mw7 {
+  max-width: 1000px !important;
+}
+
+
 /* ----------------------------- */
 /* ------------HOME------------- */
 /* ----------------------------- */
