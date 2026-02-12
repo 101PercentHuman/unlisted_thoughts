@@ -44,6 +44,8 @@ Keep up to date with the social media channels we don't use.
 **YouTube (Official)**: [@UnlistedThoughtsInc](https://www.youtube.com/@UnlistedThoughtsInc)\
 **YouTube (Unincorporated/Unofficial)**: [@UnlistedThoughts](https://www.youtube.com/@UnlistedThoughts)
 
+**Internet Archive**: [Unlisted Thoughts](https://archive.org/search?query=creator%3A%22Unlisted+Thoughts%22)
+
 # Would you like to join Unlisted Thoughts?
 
 If you think that Unlisted Thoughts will bring the right amount of chaos into your life, then you can sign up using our [**online Membership Form**](https://docs.google.com/forms/d/e/1FAIpQLSdUP4wsgPslmXlHcFzgUKlKJYCBiX7RbvqM0XyC_D2OibsKTQ/viewform?usp=header).
@@ -57,3 +59,8 @@ Best of luck!
 **BEWARE: We have an entrance fee of 1.50 AUD. The Treasurer-General will organise payment after your membership application is accepted.**
 
 **If you cannot afford to pay this, the Treasurer-General will work out a payment plan with you.**
+
+# Places where you CANNOT find Unlisted Thoughts
+- [Unlisted Thoughts Wix website](https://unlistedthoughts.wixsite.com/website)
+- [Unlisted Thoughts Blog-General](https://unlistedthoughtsblog-general.blogspot.com/)
+- [Unlisted Thoughts Media Releases](https://unlisted-thoughts-media-releases.blogspot.com/)
