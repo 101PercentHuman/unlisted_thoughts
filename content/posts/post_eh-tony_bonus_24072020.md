@@ -8,12 +8,12 @@ tags: ["Eh-Tony", "Unlisted Lore"]
 ---
 
 <figure style="text-align:center;">
-	<img src="/images/posts/eh-tony/General_Tony.png" alt="Eh-Tony's Grandfather, Grandpa First Lieutony Anthony 'Tony' Antonio, served in World War 1.">
+	<img src="/images/posts/eh-tony/General_Tony.jpg" alt="Eh-Tony's Grandfather, Grandpa First Lieutony Anthony 'Tony' Antonio, served in World War 1.">
 	<figcaption class="custom-caption"><b>IMAGE:</b> Eh-Tony's Grandfather, Grandpa First Lieutony Anthony 'Tony' Antonio, served in World War 1.</figcaption>
 </figure>
 
 <figure style="text-align:center;">
-	<img src="/images/posts/eh-tony/SPOILER_Tony_MP_png_CHRISTMAS.png" alt="Eh-Tony during Christmas in 2019.">
+	<img src="/images/posts/eh-tony/SPOILER_Tony_MP_png_CHRISTMAS.jpg" alt="Eh-Tony during Christmas in 2019.">
 	<figcaption class="custom-caption"><b>IMAGE:</b> Eh-Tony during Christmas in 2019.</figcaption>
 </figure>
 
