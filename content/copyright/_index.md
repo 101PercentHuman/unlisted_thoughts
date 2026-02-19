@@ -9,7 +9,7 @@ date: 2026-02-08
 
 Unlisted Thoughts Incorporated supports and encourages reuse of our information. Unless otherwise stated, material on this website is licensed under a Creative Commons Attribution 4.0 License ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Terms and conditions of the licence can be viewed on the [Creative Commons website](https://creativecommons.org/licenses/by/4.0/).
 
-<img src="/unlisted_thoughts/images/by.svg" alt="CC BY" class="CC BY">
+<img src="/images/by.svg" alt="CC BY" class="CC BY">
 
 Unless a different form of attribution is specified on the licensed material, we request attribution as: **© Unlisted Thoughts Incorporated.**
 

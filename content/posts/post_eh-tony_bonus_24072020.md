@@ -28,6 +28,11 @@ tags: ["Eh-Tony", "Unlisted Lore"]
 </figure>
 
 <figure style="text-align:center;">
+	<img src="/images/posts/eh-tony/Eh_Tony_Suit.png" alt="Eh-Tony wearing a business suit.">
+	<figcaption class="custom-caption"><b>IMAGE:</b> Eh-Tony wearing a business suit.</figcaption>
+</figure>
+
+<figure style="text-align:center;">
 	<img src="/images/posts/eh-tony/Banner_Tony.jpg" alt="The Eh-Tony Banner made by Unlisted Thoughts.">
 	<figcaption class="custom-caption"><b>IMAGE:</b> The Eh-Tony Banner made by Unlisted Thoughts.</figcaption>
 </figure>

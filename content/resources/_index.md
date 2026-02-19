@@ -25,4 +25,5 @@ Here be the resources of Unlisted Thoughts, ranging from our lovely little Const
 - [Meeting Templates](/resources/meeting_templates)
 
 # Other
+- [Unlisted Thoughts Disclosure Log](/resources/disclosure_log)
 - [Unlisted Thoughts Design Guide](/files/Unlisted_Thoughts_Design_Guide.pdf) (v 0.9) [PDF]

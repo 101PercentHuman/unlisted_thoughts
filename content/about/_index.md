@@ -23,3 +23,12 @@ Unlisted Thoughts began as an informal partnership between two bored high school
   </div>
 </div>
 
+# Objects
+
+As per the [Unlisted Constitution](/files/Unlisted_Thoughts_Constitution.pdf), our object is to promote niche interests to the benefit of NSW by:
+<ol type="a">
+  <li>Advocating for an Australian heraldic authority,</li>
+  <li>Advocating for increased transparency in open access information,</li>
+  <li>Engaging with the Australian heraldic and vexillological communities,</li>
+  <li>Promoting transparency in the Australian public and private sectors.</li>
+</ol>

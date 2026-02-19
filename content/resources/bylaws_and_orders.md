@@ -22,10 +22,11 @@ No general orders as of today.
 | [Appointment Order—Member Application Form](/files/orders/AO_Member_Application_Form.pdf) [PDF] | 10/02/2026 | 2026 | 1 |
 | [Appointment Order—Unlisted Printer](/files/orders/AO_Unlisted_Printer.pdf) [PDF] | 10/02/2026 | 2026 | 1 |{: .sortable }
 
-
 # Drafts
 ## By-Laws
-No drafts as of today.
+- [*By-Law Interpretation By-Law 2026*](/unsupported_files/bylaws/drafts/By-law_Interpretation_By-law_2026.docx)
+- [*Freedom of Information By-Law 2026*](/unsupported_files/bylaws/drafts/Freedom_of_Information_By-law_2026.docx)
+- [*Heraldry By-Law 2026*](/unsupported_files/bylaws/drafts/Heraldry_By-law_2026.docx)
 
 ## Orders
 No drafts as of today.
