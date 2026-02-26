@@ -245,45 +245,28 @@ body.page-not-found .mw7 {
 }
 
 .pill-flags {
+  position: relative;
   display: flex;
-  width: 100%;
-  height: 300px;
-
   align-items: center;
   justify-content: center;
-  text-align: center;
 
-  padding: 0.4rem 0.9rem;
+  width: 100%;
+  height: 300px;
   border-radius: 6px;
-
-  color: white;
-  font-weight: 600;
-  font-size: 3rem;
-  text-decoration: none;
-
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-
-  backdrop-filter: blur(2px);
-
-  position: relative;
   overflow: hidden;
-  z-index: 0;
-
-  transition: transform 0.15s ease, box-shadow 0.15s ease;
+  text-decoration: none;
 }
 
-.pill-flags span {
-  color: #fff;
-  -webkit-text-stroke: 5px rgba(0,0,0,0.9);
-  paint-order: stroke fill;
-  text-shadow:
-    0 0 2px rgba(0,0,0,0.9),
-    0 0 4px rgba(0,0,0,0.7);
+/* the flag image fills the banner */
+.pill-flags img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 
-/* overlay stays behind text */
+/* dark overlay */
 .pill-flags::before {
   content: "";
   position: absolute;
@@ -292,29 +275,25 @@ body.page-not-found .mw7 {
   z-index: 1;
 }
 
-/* text container */
-.pill-flags span,
-.pill-flags strong,
-.pill-flags .label {
+/* text on top */
+.pill-flags span {
   position: relative;
-  z-index: 2; /* text ABOVE overlay */
+  z-index: 2;
+  color: #fff;
+  font-weight: 600;
+  font-size: 3rem;
+  text-align: center;
+
+  -webkit-text-stroke: 1.5px rgba(0,0,0,0.9);
+  paint-order: stroke fill;
+  text-shadow:
+    0 0 2px rgba(0,0,0,0.9),
+    0 0 4px rgba(0,0,0,0.7);
 }
 
 .pill-flags:hover {
   transform: translateY(-1px);
   box-shadow: 0 2px 6px rgba(0,0,0,0.25);
-}
-
-.flag-original {
-  background-image: url("/images/flags/unlisted_flags/Flag_All_Peters.svg");
-}
-
-.flag-crazy {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/b/b4/Algerian_flag_%28Barbary_ensign_with_the_an_Berberian_head%29.svg");
-}
-
-.flag-ideas {
-  background-image: url("/images/flags/crazy_flags/Flag_Elephant.svg");
 }
 
 .banner-wrapper {
