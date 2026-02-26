@@ -10,6 +10,20 @@ Unlisted Thoughts has a particular interest in flags.
 
 <div class="pill-web-links">
   <a href="/flags/unlisted_flags/" class="pill-2">
+    <span>Collection of Unlisted Flags</span>
+  </a>
+  <a href="/flags/crazy_flags/" class="pill-2">
+    <span>Collection of Crazy Flag Ideas</span>
+  </a>
+  <a href="/flags/insane_flags/" class="pill-2">
+    <span>Collection of Insane Flags</span>
+  </a>
+</div>
+
+<br>
+
+<div class="pill-web-links">
+  <a href="/flags/unlisted_flags/" class="pill-2">
     <img src="/images/flags/unlisted_flags/Flag_All_Peters.svg" alt="">
     <span>Collection of Unlisted Flags</span>
   </a>
