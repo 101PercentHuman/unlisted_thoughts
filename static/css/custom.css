@@ -238,81 +238,81 @@ body.page-not-found .mw7 {
 /* ------------FLAGS------------- */
 /* ----------------------------- */
 
+/* container */
 .pill-web-links {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 0.6rem;
 }
 
+/* card */
 .pill-flags {
   position: relative;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-
+  display: block;
   width: 100%;
-  height: 300px;
+  height: 260px;
   border-radius: 6px;
   overflow: hidden;
   text-decoration: none;
+  background: #000; /* fallback while image loads */
 }
 
-/* the flag image fills the banner */
+/* background image layer */
 .pill-flags img {
   position: absolute;
-  inset: 0;
+  top: 0;
+  left: 0;
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-/* dark overlay */
-.pill-flags::before {
+/* overlay (does NOT darken text) */
+.pill-flags::after {
   content: "";
   position: absolute;
   inset: 0;
   background: rgba(0,0,0,0.35);
-  z-index: 1;
 }
 
-/* text on top */
+/* centered text */
 .pill-flags span {
-  position: relative;
-  z-index: 2;
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
   color: #fff;
-  font-weight: 600;
-  font-size: 3rem;
+  font-weight: 700;
+  font-size: 2.2rem;
   text-align: center;
+  padding: 0 1rem;
 
-  -webkit-text-stroke: 1.5px rgba(0,0,0,0.9);
+  /* crisp readable stroke */
+  -webkit-text-stroke: 1.5px #000;
   paint-order: stroke fill;
-  text-shadow:
-    0 0 2px rgba(0,0,0,0.9),
-    0 0 4px rgba(0,0,0,0.7);
+
+  z-index: 2;
 }
 
+/* hover */
 .pill-flags:hover {
-  transform: translateY(-1px);
-  box-shadow: 0 2px 6px rgba(0,0,0,0.25);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 10px rgba(0,0,0,0.35);
 }
 
+/* banner */
 .banner-wrapper {
   background: #000;
-  width: 100%;
-  padding: 0;              /* remove if you want spacing */
-  display: flex;
-  justify-content: center; /* horizontal center */
-  align-items: center;     /* vertical center (if height set) */
+  text-align: center;
 }
 
 .banner-gif {
-  display: block;          /* removes bottom gap */
+  display: block;
   max-width: 100%;
   height: auto;
-}
-
-.banner-gif {
-  height: 300px;
+  margin: 0 auto;
 }
 
 /* ----------------------------- */
