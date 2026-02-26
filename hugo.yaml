@@ -23,6 +23,7 @@ params:
   date_format: "2 January 2006"
   custom_css:
     - "css/custom.css"
+    - "css/custom2.css"
     - "css/scroll-banner.css"
     - "css/custom-cursor.css"
     
