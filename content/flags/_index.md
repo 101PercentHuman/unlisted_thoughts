@@ -30,7 +30,3 @@ Unlisted Thoughts has a particular interest in flags.
 </div>
 
 <br>
-
-<div class="banner-wrapper">
-  <img class="banner-gif" src="/images/spin.gif" alt="">
-</div>
