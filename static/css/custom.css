@@ -246,7 +246,7 @@ body.page-not-found .mw7 {
 }
 
 /* card */
-.pill-flags-2 {
+.pill-2 {
   position: relative;
   display: block;
   width: 100%;
@@ -258,7 +258,7 @@ body.page-not-found .mw7 {
 }
 
 /* background image layer */
-.pill-flags-2 img {
+.pill-2 img {
   position: absolute;
   top: 0;
   left: 0;
@@ -268,7 +268,7 @@ body.page-not-found .mw7 {
 }
 
 /* overlay (does NOT darken text) */
-.pill-flags-2::after {
+.pill-2::after {
   content: "";
   position: absolute;
   inset: 0;
@@ -276,7 +276,7 @@ body.page-not-found .mw7 {
 }
 
 /* centered text */
-.pill-flags-2 span {
+.pill-2 span {
   position: absolute;
   inset: 0;
   display: flex;
@@ -297,7 +297,7 @@ body.page-not-found .mw7 {
 }
 
 /* hover */
-.pill-flags-2:hover {
+.pill-2:hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 10px rgba(0,0,0,0.35);
 }
