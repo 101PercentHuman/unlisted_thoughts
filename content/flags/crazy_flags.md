@@ -10,20 +10,32 @@ date: 2026-02-26
 
 ## Flag of Two
 <div class="flag-div">
-	<img src="/images/flags/crazy_flags/Flag_2.svg">
+  <img class="flag-div-img" src="/images/flags/crazy_flags/Flag_2.svg">
+  <a class="download-btn" href="/images/flags/crazy_flags/Flag_2.svg" download>
+    Download Flag
+  </a>
 </div>
 
 ## Flag of Chinese Pigs
 <div class="flag-div">
-	<img src="/images/flags/crazy_flags/Flag_China_Pig.svg">
+  <img class="flag-div-img" src="/images/flags/crazy_flags/Flag_China_Pig.svg">
+  <a class="download-btn" href="/images/flags/crazy_flags/Flag_China_Pig.svg" download>
+    Download Flag
+  </a>
 </div>
 
 ## Flag of Masturbatory Elephant
 <div class="flag-div">
-	<img src="/images/flags/crazy_flags/Flag_Elephant.svg">
+  <img class="flag-div-img" src="/images/flags/crazy_flags/Flag_Elephant.svg">
+  <a class="download-btn" href="/images/flags/crazy_flags/Flag_Elephant.svg" download>
+    Download Flag
+  </a>
 </div>
 
 ## Flag of Wine Australia
 <div class="flag-div">
-	<img src="/images/flags/crazy_flags/Flag_Wine_Australia.svg">
+  <img class="flag-div-img" src="/images/flags/crazy_flags/Flag_Wine_Australia.svg">
+  <a class="download-btn" href="/images/flags/crazy_flags/Flag_Wine_Australia.svg" download>
+    Download Flag
+  </a>
 </div>

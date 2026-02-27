@@ -290,3 +290,32 @@ footer a {
 footer a:hover {
     color: #FFFFFF !important;
 }
+
+/* ----------------------------- */
+/* --------DOWNLOAD------------- */
+/* ----------------------------- */
+
+.download-btn,
+.download-btn:link,
+.download-btn:visited,
+.download-btn:hover,
+.download-btn:active,
+.download-btn:focus {
+  color: #ffffff !important;
+}
+
+.download-btn {
+  display: inline-block;
+  margin-top: 0.6rem;
+  padding: 0.5rem 1rem;
+  background-color: #007777;
+  font-weight: 600;
+  border-radius: 6px;
+  text-decoration: none;
+  transition: 0.2s ease;
+}
+
+.download-btn:hover {
+  background-color: #004040;
+  transform: translateY(-2px);
+}

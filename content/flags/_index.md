@@ -10,7 +10,7 @@ Unlisted Thoughts has a particular interest in flags.
 
 <div class="pill-web-links">
   <a href="/flags/unlisted_flags/" class="pill-2">
-    <img src="/images/flags/unlisted_flags/Flag_All_Peters.svg" alt="">
+    <img src="/images/flags/unlisted_flags/Flag_Grape.svg" alt="">
     <span>Collection of Unlisted Flags</span>
   </a>
   <a href="/flags/crazy_flags/" class="pill-2">
@@ -18,7 +18,7 @@ Unlisted Thoughts has a particular interest in flags.
     <span>Collection of Crazy Flag Ideas</span>
   </a>
   <a href="/flags/insane_flags/" class="pill-2">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Algerian_flag_%28Barbary_ensign_with_the_an_Berberian_head%29.svg" alt="">
+    <img src="/images/flags/insane_flags/The_Flag_of_Citrus_Land.png" alt="">
     <span>Collection of Insane Flags</span>
   </a>
 </div>

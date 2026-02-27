@@ -78,3 +78,17 @@
   height: auto;
   margin: 0 auto;
 }
+
+.flag-div {
+  text-align: center;
+  color: #000
+}
+
+.flag-div-img {
+  display: block;
+  margin: 0 auto;          /* centres the image */
+  max-width: 100%;
+  height: auto;
+  border: 1px solid rgba(0, 0, 0, 0.2);  /* subtle border */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.08); /* soft shadow for depth */
+}
