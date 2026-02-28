@@ -8,6 +8,10 @@ date: 2026-02-08
 
 Unlisted Thoughts has a particular interest in flags.
 
+<div class="warning">
+	BEWARE! Not all flags are safe for children. If you are the child of somewhere, consider if it is wise to look at flags that may depict violence, nudity, and profanity.
+</div>
+
 <div class="pill-web-links">
   <a href="/flags/unlisted_flags/" class="pill-2">
     <img src="/images/flags/unlisted_flags/Flag_Grape.svg" alt="">

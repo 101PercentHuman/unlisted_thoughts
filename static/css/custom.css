@@ -34,6 +34,28 @@ body.page-not-found .mw7 {
   max-width: 1000px !important;
 }
 
+.warning {
+  background: #FF3600;              /* deep red */
+  color: #000000;                   /* always white text */
+  border-left: 6px solid #993300;   /* accent stripe */
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+  border-radius: 8px;
+  font-weight: 600;
+  line-height: 1.4;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.warning::before {
+  content: "⚠️";
+  margin-right: 0.6rem;
+}
+
+/* optional hover polish */
+.warning:hover {
+  box-shadow: 0 6px 16px rgba(0,0,0,0.22);
+  transition: 0.2s ease;
+}
 
 /* ----------------------------- */
 /* ------------HOME------------- */
