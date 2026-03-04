@@ -10,7 +10,7 @@ This is the Register of By-laws and Orders.
 # By-laws
 | Title | Effective Date | Year | No |
 |------|------|---------|---------|
-| [By-law Interpretaton By-law 2026](/files/bylaws/AO_Authorised_persons_to_affix_seal.pdf) [PDF] | 01/03/2026 | 2026 | 1 |
+| [By-law Interpretaton By-law 2026](/files/bylaws/By-law_Interpretation_By-law_2026.pdf) [PDF] | 01/03/2026 | 2026 | 1 |
 | [Freedom of Information By-law 2026](/files/bylaws/Freedom_of_Information_By-law_2026.pdf) [PDF] | 01/03/2026 | 2026 | 2 |
 | [Heraldry By-law 2026](/files/bylaws/Heraldry_By-law_2026) [PDF] | 01/03/2026 | 2026 | 3 |
 

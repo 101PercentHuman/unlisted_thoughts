@@ -185,7 +185,7 @@ body.page-not-found .mw7 {
 
 .pill-flags {
     background-color: #FF3600;
-    color: #FFFFFF;
+    color: #000000;
 }
 
 .pill-foi:hover{
@@ -199,7 +199,7 @@ body.page-not-found .mw7 {
 }
 
 .pill-flags:hover{
-    color: #FFFFFF !important;
+    color: #000000 !important;
     text-shadow: none !important;
 }
 
@@ -221,7 +221,7 @@ body.page-not-found .mw7 {
 }
 
 .pill-flags{
-    color: #FFFFFF !important;
+    color: #000000 !important;
     /* white */
     text-decoration: none !important;
     text-shadow: none !important;
@@ -239,7 +239,7 @@ body.page-not-found .mw7 {
 }
 
 .pill-flags:hover{
-    color: #FFFFFF !important;
+    color: #000000 !important;
     text-shadow: none !important;
 }
 
