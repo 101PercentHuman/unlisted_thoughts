@@ -19,12 +19,14 @@ This is the Register of By-laws and Orders.
 No general orders as of today.
 
 ## Appointments
-| Title | Effective Date | Year | No |
-|------|------|---------|---------|
-| [Appointment Order—Authorised persons to affix seal](/files/orders/AO_Authorised_persons_to_affix_seal.pdf) [PDF] | 01/03/2026 | 2026 | 1 |
-| [Appointment Order—Internet Site hosting Register of By-laws and Orders](/files/orders/AO_Internet_Site_hosting_Register_of_By-laws_and_Orders.pdf) [PDF] | 01/03/2026 | 2026 | 1 |
-| [Appointment Order—Member Application Form](/files/orders/AO_Member_Application_Form.pdf) [PDF] | 10/02/2026 | 2026 | 1 |
-| [Appointment Order—Unlisted Printer](/files/orders/AO_Unlisted_Printer.pdf) [PDF] | 10/02/2026 | 2026 | 1 |
+| Title | Effective Date | Year |
+|------|------|---------|
+| [Appointment Order—Authorised persons to affix seal](/files/orders/AO_Authorised_persons_to_affix_seal.pdf) [PDF] | 01/03/2026 | 2026 | 
+| [Appointment Order—Internet Site hosting Register of By-laws and Orders](/files/orders/AO_Internet_Site_hosting_Register_of_By-laws_and_Orders.pdf) [PDF] | 01/03/2026 | 2026 |
+| [Appointment Order—Member Application Form](/files/orders/AO_Member_Application_Form.pdf) [PDF] | 10/02/2026 | 2026 |
+| [Appointment Order—Permanent Committee](/files/orders/AO_Permanent_Committee.pdf) [PDF] | 06/03/2026 | 2026 |
+| [Appointment Order—Unlisted Herald](/files/orders/AO_Unlisted_Herald.pdf) [PDF] | 01/03/2026 | 2026 |
+| [Appointment Order—Unlisted Printer](/files/orders/AO_Unlisted_Printer.pdf) [PDF] | 10/02/2026 | 2026 |
 
 # Drafts
 ## By-Laws
