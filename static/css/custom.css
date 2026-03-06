@@ -341,3 +341,29 @@ footer a:hover {
   background-color: #004040;
   transform: translateY(-2px);
 }
+
+/* ----------------------------- */
+/* --------HERALDRY------------- */
+/* ----------------------------- */
+
+.legal-list {
+  max-width: 850px;
+  margin: 1.5rem 0;
+  margin-left: 2rem;
+  
+  border-top: 1px solid #404040;     /* top hairline */
+  border-bottom: 1px solid #404040;  /* bottom hairline */
+}
+
+.legal-item {
+  position: relative;
+  padding-left: 2.5rem;   /* space for (a) */
+  margin: 0.6rem 0;
+  line-height: 1.6;
+}
+
+.legal-label {
+  position: absolute;
+  left: 0;
+  font-weight: 600;
+}

@@ -38,6 +38,12 @@ date: 2026-02-26
   <a href="/images/flags/unlisted_flags/Flag_Milwaukee.svg" download class="download-btn">Download Flag</a>
 </div>
 
+## Flag of the Shyster-General
+<div class="flag-div">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flags_Shyster-General.svg">
+  <a href="/images/flags/unlisted_flags/Flags_Shyster-General.svg" download class="download-btn">Download Flag</a>
+</div>
+
 ## Flag of Stephen Jones
 <div class="flag-div">
   <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Stephen_Jones.svg">
