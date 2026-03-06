@@ -30,7 +30,7 @@ No general orders as of today.
 
 # Drafts
 ## By-Laws
-No drafts as of today.
+- [Pseudonyms By-law 2026](/unsupported_files/bylaws/drafts/Pseudonyms_By-law_2026.docx) [DOCX]
 
 ## Orders
 No drafts as of today.
