@@ -8,9 +8,11 @@
     {{- $text_alignment = "tr-l" -}}
   {{- end -}}
 
-  <article class="cf ph3 ph5-l pv3 pv4-l f4 {{ $text_alignment }} center mw8 lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
-    {{ .Content }}
-  </article>
+  <main id="main-content">
+	  <article class="cf ph3 ph5-l pv3 pv4-l f4 {{ $text_alignment }} center mw8 lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+		{{ .Content }}
+	  </article>
+  </main>
 
   {{/* Define a section to pull recent posts from. For Hugo 0.20 this will default to the section with the most number of pages. */}}
 
@@ -42,7 +44,7 @@
           {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
           {{ range (collections.First 4 (collections.After $n_posts $section))  }}
             <h2 class="f5 fw4 mb4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection "rtl") "ml3" "mr3" }}">
-              <a href="{{ .RelPermalink }}" class="link black dim">
+              <a href="{{ .RelPermalink }}" class="link dim article-link">
                 {{ .Title }}
               </a>
             </h2>

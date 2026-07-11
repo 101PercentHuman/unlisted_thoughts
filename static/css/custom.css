@@ -4,6 +4,67 @@
 /* ----------MASTERS------------ */
 /* ----------------------------- */
 
+.skip-link {
+    position: absolute;
+    top: -100px;
+    left: 1rem;
+    z-index: 10000;
+
+    padding: 0.75rem 1rem;
+
+    background: #ffffff;
+    color: #000000;
+    border: 3px solid #004040;
+    border-radius: 4px;
+
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.skip-link:focus {
+    top: 1rem;
+}
+
+.skip-link:hover {
+    text-decoration: underline;
+}
+
+.nested-links a {
+  color: #004040;              /* Normal link colour */
+}
+
+.nested-links a:visited {
+  color: #007777;              /* Visited link colour */
+}
+
+.nested-links a:hover,
+.nested-links a:focus {
+  color: #004040;              /* Hover/focus colour */
+  text-decoration: underline;
+}
+
+.nested-links a:active {
+  color: #004040;              /* While being clicked */
+}
+
+.article-link {
+  color: #004040;
+}
+
+.article-link:visited {
+  color: #007777;
+}
+
+.article-link:hover,
+.article-link:focus {
+  color: #004040;
+  text-decoration: underline;
+}
+
+.article-link:active {
+  color: #004040;
+}
+
 .bg-black {
     background-color: #404040 !important;
 }
@@ -55,6 +116,33 @@ body.page-not-found .mw7 {
 .warning:hover {
   box-shadow: 0 6px 16px rgba(0,0,0,0.22);
   transition: 0.2s ease;
+}
+
+.read-more-link {
+  display: inline-block;
+  border: 1px solid #004040;
+  background-color: #ffffff;
+  color: #004040;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+  padding: 0.25rem 0.5rem;
+  text-decoration: none;
+}
+
+.read-more-link:visited {
+  color: #007777;
+}
+
+.read-more-link:hover,
+.read-more-link:focus {
+  background-color: #004040;
+  color: #ffffff;
+  text-decoration: underline;
+}
+
+.read-more-link:active {
+  background-color: #003333;
+  color: #ffffff;
 }
 
 /* ----------------------------- */
@@ -302,11 +390,11 @@ header h2 {
 /* Footer styling */
 footer {
     background-color: #404040 !important;
-    color: FFFFFF !important;
+    color: #FFFFFF !important;
 }
 
 footer a {
-    color: FFFFFF !important;
+    color: #FFFFFF !important;
 }
 
 footer a:hover {

@@ -32,8 +32,8 @@ We are based in Sydney, NSW, Australia.
 
 <div class="logo-banner">
   <div class="logo-wrapper">
-    <img src="/images/ut_logo/ut_logo_cube_only.svg" alt="Logo" class="logo-color">
-    <img src="/images/ut_logo/ut_logo_cube_only_white.svg" alt="Logo White" class="logo-white">
+    <img src="/images/ut_logo/ut_logo_cube_only.svg" alt="" class="logo-color">
+    <img src="/images/ut_logo/ut_logo_cube_only_white.svg" alt="" class="logo-white">
   </div>
 </div>
 

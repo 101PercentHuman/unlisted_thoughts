@@ -1,6 +1,6 @@
 baseURL: "https://unlistedthoughts.com"
 title: "Unlisted Thoughts Incorporated"
-languageCode: "en-us"
+locale: "en-au"
 
 module:
   imports:
