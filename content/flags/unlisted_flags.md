@@ -10,55 +10,55 @@ date: 2026-02-26
 
 ## Flag of All-Peters
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_All_Peters.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_All_Peters.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flag_All_Peters.svg" download class="download-btn">Download Flag</a>
 </div>
 
 ## Flag of All-Zachs
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_All_Zachs.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_All_Zachs.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flag_All_Zachs.svg" download class="download-btn">Download Flag</a>
 </div>
 
 ## Flag of Flags Australia
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flags_Flags_Australia.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flags_Flags_Australia.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flags_Flags_Australia.svg" download class="download-btn">Download Flag</a>
 </div>
 
 ## Flag of Grapes
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Grape.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Grape.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flag_Grape.svg" download class="download-btn">Download Flag</a>
 </div>
 
 ## (New) Flag of Milwaukee
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Milwaukee.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Milwaukee.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flag_Milwaukee.svg" download class="download-btn">Download Flag</a>
 </div>
 
 ## Flag of the Shyster-General
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flags_Shyster-General.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flags_Shyster-General.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flags_Shyster-General.svg" download class="download-btn">Download Flag</a>
 </div>
 
 ## Flag of Stephen Jones
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Stephen_Jones.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Stephen_Jones.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flag_Stephen_Jones.svg" download class="download-btn">Download Flag</a>
 </div>
 
 ## (New) Flag of Sydney (Variant A)
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Sydney_1.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Sydney_1.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flag_Sydney_1.svg" download class="download-btn">Download Flag</a>
 </div>
 
 ## Flag of Zanton
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Zanton.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Zanton.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flag_Zanton.svg" download class="download-btn">Download Flag</a>
 </div>
 
@@ -66,6 +66,6 @@ date: 2026-02-26
 
 ## Funeral Flags
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Unlisted_Funerals.svg">
+  <img class="flag-div-img" src="/images/flags/unlisted_flags/Flag_Unlisted_Funerals.svg" alt="">
   <a href="/images/flags/unlisted_flags/Flag_Unlisted_Funerals.svg" download class="download-btn">Download Flag</a>
 </div>

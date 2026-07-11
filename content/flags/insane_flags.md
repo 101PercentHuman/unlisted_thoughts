@@ -10,7 +10,7 @@ date: 2026-02-26
 
 ## Algerian Flag
 <div class="flag-div">
-  <img class="flag-div-img" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Algerian_flag_%28Barbary_ensign_with_the_an_Berberian_head%29.svg">
+  <img class="flag-div-img" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Algerian_flag_%28Barbary_ensign_with_the_an_Berberian_head%29.svg" alt="">
   <div>
     This flag is by 
     <a href="https://commons.wikimedia.org/wiki/User:Vikoula5">Reda Kerbush</a>
@@ -26,7 +26,7 @@ date: 2026-02-26
 
 ## Citrus Land
 <div class="flag-div">
-  <img class="flag-div-img" src="/images/flags/insane_flags/The_Flag_of_Citrus_Land.png">
+  <img class="flag-div-img" src="/images/flags/insane_flags/The_Flag_of_Citrus_Land.png" alt="">
   <div>
     This flag is by Citrus Land and is licensed under a
     <a href="https://en.wikipedia.org/wiki/en:Creative_Commons">Creative Commons</a>

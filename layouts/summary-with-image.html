@@ -1,6 +1,6 @@
 {{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
 <article class="bb b--black-10">
-  <div class="db pv4 ph3 ph0-l dark-gray no-underline">
+  <div class="db pv4 ph3 ph0-l no-underline">
     <div class="flex-column flex-row-ns flex">
       {{ if $featured_image }}
           {{/* Trimming the slash and adding absURL make sure the image works no matter collections.Where our site lives */}}
@@ -22,7 +22,7 @@
         {{ with .Params.author | compare.Default .Site.Params.author }}
           <p class="f6 lh-copy mv0">By {{ . }}</p>
         {{- end -}}
-        <a href="{{.RelPermalink}}" class="read-more-link">{{ $.Param "read_more_copy" | compare.Default (lang.Translate "readMore") }}</a>
+        <a href="{{.RelPermalink}}" class="read-more-link">Read more about this post</a>
       </div>
     </div>
   </div>
