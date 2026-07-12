@@ -5,13 +5,13 @@ date: 2026-02-08
 
 ---
 
-# Resolutions
+## Resolutions
 | Title | Date | Number | 
 |------|------|---------| 
 |No resolutions have been passed|||{: .sortable }
 
 
-# Special Resolutions
+## Special Resolutions
 | Title | Date | Number | 
 |------|------|---------| 
 |[Incorporation of Unlisted Thoughts](/files/resolutions/SR_0001.pdf)|22/01/2026|1 |
@@ -19,8 +19,8 @@ date: 2026-02-08
 
 
 
-# Drafts
+## Drafts
 No drafts as of today.
 
-# Template
-You can download the resolution template [here](/unsupported_files/resolution_templates/Unlisted_Thoughts_Resolution_Template.dotx)
+## Template
+You can [download the resolution template here](/unsupported_files/resolution_templates/Unlisted_Thoughts_Resolution_Template.dotx)
