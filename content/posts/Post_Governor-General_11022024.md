@@ -23,11 +23,11 @@ I took the time to read some articles from *The Australian*, *Sky News Australia
 
 Let’s review their three picks from *The Australian* before going on a brief, unstructured rant.
 
-# The Media’s picks for Governor-General
+## The Media’s picks for Governor-General
 
 Let’s go over some popular picks:
 
-## The Honourable Kim Beazley AC ([Miller, 2023](https://www.theaustralian.com.au/commentary/indigenous-governorgeneral-a-fitting-sign-of-our-maturity-as-nation/news-story/642a3d0c6910afe5345fb0f16f568ba0))
+### The Honourable Kim Beazley AC ([Miller, 2023](https://www.theaustralian.com.au/commentary/indigenous-governorgeneral-a-fitting-sign-of-our-maturity-as-nation/news-story/642a3d0c6910afe5345fb0f16f568ba0))
 
 Kim Beazley… what else can I say? The Leader of the Opposition who went up against John Howard… and lost. The former Deputy Prime Minister under Paul Keating, infamous for resting one foot on the chair at The Table in the House of Representatives chamber when orating — Beazley is an experienced politician who was once the Ambassador to the USA (a position reserved for former politicians).
 
@@ -39,7 +39,7 @@ Kim does have some things going against him: he’s a former Labor leader and fo
 
 **Governor-General Material Rating:** 4/5
 
-## The Honourable Julia Gillard AC ([Miller, 2023](https://www.theaustralian.com.au/commentary/indigenous-governorgeneral-a-fitting-sign-of-our-maturity-as-nation/news-story/642a3d0c6910afe5345fb0f16f568ba0))
+### The Honourable Julia Gillard AC ([Miller, 2023](https://www.theaustralian.com.au/commentary/indigenous-governorgeneral-a-fitting-sign-of-our-maturity-as-nation/news-story/642a3d0c6910afe5345fb0f16f568ba0))
 
 I mentioned that a certain prime minister never got to pick her own governor-general. Well, Julia Gillard is still well-respected even after her premiership. Gillard is the first female Australian prime minister, which is a fair accomplishment. If Gillard is appointed governor-general, she would be the second female governor-general.
 
@@ -51,7 +51,7 @@ For that reason, I can’t actually see Gillard becoming governor-general… at 
 
 **Governor-General Material Rating:** 1/5
 
-# Noel Pearson ([Miller, 2023](https://www.theaustralian.com.au/commentary/indigenous-governorgeneral-a-fitting-sign-of-our-maturity-as-nation/news-story/642a3d0c6910afe5345fb0f16f568ba0))
+### Noel Pearson ([Miller, 2023](https://www.theaustralian.com.au/commentary/indigenous-governorgeneral-a-fitting-sign-of-our-maturity-as-nation/news-story/642a3d0c6910afe5345fb0f16f568ba0))
 
 There’s one eulogy that sticks with me, and that’s [Noel Pearson’s eulogy for Gough Whitlam](https://www.youtube.com/watch?v=JsXmYHiuJ8s). I really like how Pearson speaks. He has a certain poetry to his words. I’ll throw some lines he said during the Voice referendum:
 - [“I have observed both the fundamental power of listening, and the devastating consequences of wilful deafness.”](https://www.theguardian.com/australia-news/2023/sep/27/indigenous-voice-to-parliament-referendum-noel-pearson-yes-campaign-national-press-club)
@@ -68,7 +68,7 @@ If Albo is going to pick an Indigenous Australian who can orate like no-one else
 
 **Governor-General Material Rating:** 5/5
 
-# A Brief Rant About Generals Becoming Governor-General
+## A Brief Rant About Generals Becoming Governor-General
 
 Apparently since God created the Earth some 2000 years ago, former military officers are apparently the go-to people to become Governor-General of Australia. Maybe that worked during the colonial days and when **EMPIRE** was the word of the year, but we live in the space year of 2024 (post-COVID) and I reckon we can give former Chiefs of the Defence Force a break. Of the four most recent governors-general, three have been ex-military — and ex-Army at that as if the Royal Australian Air Force and Royal Australian Navy does not exist.
 
@@ -76,7 +76,7 @@ I have no idea why prime ministers (mostly Coalition prime ministers) — and th
 
 The Army is over-represented with Australian governors-general. If General Angus Campbell becomes governor-general, I will eat a shoe and curse the Australian Army.
 
-# Conclusion
+## Conclusion
 
 I’d choose Noel Pearson. More picks later… unless I forget.
 

@@ -7,7 +7,7 @@ tags: ["Eh-Tony", "Unlisted Lore"]
 
 ---
 
-# The Tony To Change It All
+## The Tony To Change It All
 
 <figure style="text-align:center;">
 	<img src="/images/posts/eh-tony/ertrere.jpg" alt="Eh-Tony pictured with numerous American legislators during his visit to Washington D.C. in 2016.">
