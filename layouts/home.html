@@ -43,7 +43,7 @@
           <h2 class="f3">{{ lang.Translate "more" }}</h2>
           {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
           {{ range (collections.First 4 (collections.After $n_posts $section))  }}
-            <h3 class="f5 fw4 mb4 dib {{ compare.Conditional (compare.Eq $.Site.Language.Direction  "rtl") "ml3" "mr3" }}">
+            <h3 class="f5 fw4 mb4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection  "rtl") "ml3" "mr3" }}">
               <a href="{{ .RelPermalink }}" class="link dim article-link">
                 {{ .Title }}
               </a>
