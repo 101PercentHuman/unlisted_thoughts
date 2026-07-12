@@ -6,9 +6,9 @@ date: 2026-02-26
 
 ---
 
-# Wikimedia Commons
+## Wikimedia Commons
 
-## Algerian Flag
+### Algerian Flag
 <div class="flag-div">
   <img class="flag-div-img" src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Algerian_flag_%28Barbary_ensign_with_the_an_Berberian_head%29.svg" alt="">
   <div>
@@ -24,7 +24,7 @@ date: 2026-02-26
   </a>
 </div>
 
-## Citrus Land
+### Citrus Land
 <div class="flag-div">
   <img class="flag-div-img" src="/images/flags/insane_flags/The_Flag_of_Citrus_Land.png" alt="">
   <div>

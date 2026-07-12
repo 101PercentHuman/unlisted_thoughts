@@ -18,7 +18,7 @@
 
   {{ partial "scroll-banner.html" . }}
   <br>
-  <h1 class="w-40-ns center">Recent posts</h1>
+  <h2 class="w-40-ns center">Recent posts</h2>
   {{ $mainSections := site.Params.mainSections | compare.Default (collections.Slice "post") }}
   {{ $show_recent_posts := site.Params.ananke.show_recent_posts }}
   {{ $section := collections.Where $.Site.RegularPages "Section" "in" $mainSections }}
@@ -40,14 +40,14 @@
 
       {{ if compare.Ge $section_count (math.Add $n_posts 1) }}
         <section class="w-100">
-          <h1 class="f3">{{ lang.Translate "more" }}</h1>
+          <h2 class="f3">{{ lang.Translate "more" }}</h2>
           {{/* Now, range through the next four after the initial $n_posts items. Nest the requirements, "after" then "first" on the outside */}}
           {{ range (collections.First 4 (collections.After $n_posts $section))  }}
-            <h2 class="f5 fw4 mb4 dib {{ compare.Conditional (compare.Eq $.Site.Language.LanguageDirection  "rtl") "ml3" "mr3" }}">
+            <h3 class="f5 fw4 mb4 dib {{ compare.Conditional (compare.Eq $.Site.Language.Direction  "rtl") "ml3" "mr3" }}">
               <a href="{{ .RelPermalink }}" class="link dim article-link">
                 {{ .Title }}
               </a>
-            </h2>
+            </h3>
           {{ end }}
         </section>
       {{ end }}

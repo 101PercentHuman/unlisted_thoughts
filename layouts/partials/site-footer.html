@@ -2,14 +2,23 @@
 
 <footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
   <div class="flex justify-between items-center">
-    <a class="f4 fw4 hover-white white-90 dn dib-ns pv2 ph3 no-underline" href="/copyright/">
-      &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
-    </a>
+    <!-- Left side -->
+    <div class="flex items-center">
+      <a class="f4 fw4 hover-white white-90 dn dib-ns pv2 ph3 no-underline" href="/copyright/">
+        &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safeHTML }} {{ now.Format "2006"}} {{ end }}
+      </a>
+      <span class="white-90">|</span>
+      <a class="f4 fw4 hover-white white-90 dn dib-ns pv2 ph3 no-underline" href="/accessibility/">
+        Accessibility
+      </a>
+    </div>
 
+    <!-- Right side -->
     <div class="flex items-center">
       {{ partials.IncludeCached "social/follow.html" . }}
-      <!-- Visitor counter -->
-      <span id="visitor-counter" class="ml3 white f5">Visitors: 0</span>
+      <span id="visitor-counter" class="ml3 white f5">
+        Visitors: 0
+      </span>
     </div>
   </div>
 </footer>

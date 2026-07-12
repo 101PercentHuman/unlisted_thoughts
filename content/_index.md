@@ -6,22 +6,22 @@ date: 2026-02-08
 
 ---
 
-<h1>Welcome to our website.</h2>
+<h2>Welcome to our website.</h2>
 
 See what we're doing across our three domains:
 <div class="domain-pills">
   <a href="foi/" class="pill pill-foi">
-    <h2>Freedom of Information</h2>
+    <h3>Freedom of Information</h3>
     <p>We care deeply about our right to obtain government information. Society benefits when all sorts of curiosities are released to the public.</p>
   </a>
 
   <a href="heraldry/" class="pill pill-heraldry">
-    <h2>Heraldry</h2>
+    <h3>Heraldry</h3>
     <p>Heraldry is an ancient discipline. We believe there should be an Australian Heraldic Authority. Until then, we'll act in its place.</p>
   </a>
 
   <a href="flags/" class="pill pill-flags">
-    <h2>Flags</h2>
+    <h3>Flags</h3>
     <p>Flags, flags, flags. What more to say? Flags! You can have a tricolour or an ornate design. Rectangle? No need if you're crazy!</p>
   </a>
 </div>

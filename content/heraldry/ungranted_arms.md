@@ -6,9 +6,9 @@ date: 2026-02-08
 
 ---
 
-# Ungranted Arms
+## Ungranted Arms
 
-## Ungranted Arms 0001–0009
+### Ungranted Arms 0001–0009
 <div class="coa-card">
   <img class="coa-img" src="/images/coa/ungranted/CoA_Basic.svg" alt="">
   <div class="coa-content">
@@ -100,7 +100,7 @@ date: 2026-02-08
   </div>
 </div>
 
-# Unlisted Arms
+## Unlisted Arms
 
 <div class="coa-card">
   <img class="coa-img" src="/images/coa/granted/CoA_UT.svg" alt="">

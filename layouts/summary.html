@@ -1,14 +1,15 @@
 <div class="w-100 mb4 nested-copy-line-height relative bg-white">
   <div class="mb3 pa4 overflow-hidden bg-white">
     {{with .CurrentSection.Title }}<span class="small-section-label f6 db">{{ . }}</span>{{end}}
-    <h1 class="f3 near-black">
+    <h2 class="f3 near-black">
       <a href="{{ .RelPermalink }}" class="link black dim">
         {{ .Title }}
       </a>
-    </h1>
+    </h2>
     <div class="nested-links f5 lh-copy nested-copy-line-height">
       {{ .Summary }}
     </div>
+	<br>
     <a href="{{.RelPermalink}}" class="read-more-link">Read more about this post</a>
   </div>
 </div>
