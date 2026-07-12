@@ -10,7 +10,7 @@ tags: ["Eh-Tony", "Unlisted Lore"]
 ## The Tony To Change It All
 
 <figure style="text-align:center;">
-	<img src="/images/posts/eh-tony/ertrere.jpg" alt="Eh-Tony pictured with numerous American legislators during his visit to Washington D.C. in 2016.">
+	<img src="/images/posts/eh-tony/ertrere.jpg" alt="">
 	<figcaption class="custom-caption"><b>IMAGE:</b> Eh-Tony (bottom row) pictured with numerous American legislators during his visit to Washington D.C. in 2016.</figcaption>
 </figure>
 
@@ -21,7 +21,7 @@ Except one.
 In 2013, Eh-Tony (who is mononymous) campaigned on a platform of change and solidarity. He sought to put behind the disconnect and apathy of voters to federal politics. He was to represent all Tonys across Australia by being the member for Tonysville, the electorate with the highest concentration of Tonys, Anthonys, Antonios, Antoinettes, Tonis, Tonyas, etc. He believed that Tonys in Tonysville could join together in Tony solidarity.
 
 <figure style="text-align:center;">
-	<img src="/images/posts/eh-tony/BLAIR-BUSH.jpg" alt="Tony Blair with US President George Bush the Younger in 2002.">
+	<img src="/images/posts/eh-tony/BLAIR-BUSH.jpg" alt="">
 	<figcaption class="custom-caption"><b>IMAGE:</b> Tony Blair with US President George Bush the Younger in 2002. (EA WorldView: <a href="https://eaworldview.com/2019/01/political-worldview-podcast-uk-tony-blair-iraq/">https://eaworldview.com/2019/01/political-worldview-podcast-uk-tony-blair-iraq/></a></figcaption>
 </figure>
 
@@ -40,7 +40,7 @@ As an independent, Eh-Tony stood for election as the member for Tonysville in th
 Eh-Tony stood at the 2010 federal election, returning with 22.1% of the vote, placing as the candidate with the third-most votes. 
 
 <figure style="text-align:center;">
-	<img src="/images/posts/eh-tony/Tony (1).gif" alt="The Eh-Tony Scotland Yard Sign was famous for winning Eh-Tony the support of young voters.">
+	<img src="/images/posts/eh-tony/Tony (1).gif" alt="">
 	<figcaption class="custom-caption"><b>IMAGE:</b> The Eh-Tony Scotland Yard Sign was famous for winning Eh-Tony the support of young voters.</figcaption>
 </figure>
 
@@ -63,7 +63,7 @@ The 2019 federal election will be smooth sailing for Eh-Tony, the man who has re
 More people could stand to learn from Eh-Tony.
 
 <figure style="text-align:center;">
-	<img src="/images/posts/eh-tony/Tony_MP_png.jpg" alt="Eh-Tony">
+	<img src="/images/posts/eh-tony/Tony_MP_png.jpg" alt="Portrait of Eh-Tony">
 </figure>
 
 By William Luu.
